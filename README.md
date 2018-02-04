@@ -6,3 +6,9 @@
 01- Create a new repository with a basic HTML file.
 02- Share the repo. 
 03- Review Merged Pull-Request. 
+
+
+-------------------------
+
+Instructions to make the invitation:
+https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
